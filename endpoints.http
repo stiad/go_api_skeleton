@@ -8,7 +8,9 @@
 
 #Base
 GET {{url}}/
-Api-Key: {{apiKey}}
-Content-Type: application/json
+###
 
+#Protected
+GET {{url}}/protected
+Api-Key: {{apiKey}}
 ###
