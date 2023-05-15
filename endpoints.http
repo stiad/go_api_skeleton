@@ -1,0 +1,14 @@
+
+################################
+
+#           ENDPOINTS
+
+################################
+
+
+#Base
+GET {{url}}/
+Api-Key: {{apiKey}}
+Content-Type: application/json
+
+###
